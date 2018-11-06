@@ -6,13 +6,11 @@ public class Carspeed : MonoBehaviour
 {
 
     float speed, max_speed;
-    Vector2 direction;
     // Use this for initialization
     void Start()
     {
         speed = 0f;
         max_speed = 0.1f;
-        direction = Vector3.up;
     }
 
     // Update is called once per frame
@@ -39,6 +37,6 @@ public class Carspeed : MonoBehaviour
             speed *= 0.95f;
         }
 
-        transform.Translate(0, speed, 0);
+        transform.Translate(speed, 0, 0);
     }
 }

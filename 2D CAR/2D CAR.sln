@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{39E8CFB0-708D-338A-A370-EF694D5AB23B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D CAR", "Assembly-CSharp.csproj", "{39E8CFB0-708D-338A-A370-EF694D5AB23B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
